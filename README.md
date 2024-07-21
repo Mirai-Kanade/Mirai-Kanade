@@ -1,4 +1,4 @@
-<img align="center" fit="fill" alt="JPG" src="https://telegra.ph/file/485848adf671eef34b8e4.png" />
+<img align="center" fit="fill" alt="JPG" src="https://telegra.ph/file/78a7b934c36f6ff9ba128.jpg" />
 
 - 👋 Hi, I’m Khalfy Ramadhan (@halfy).
 - 👀 I’m interested in Ancient Japanese Characters Research, Ancient Japanese Cultural Customs Research...
