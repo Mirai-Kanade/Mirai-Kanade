@@ -13,8 +13,6 @@ You can click the Preview link to take a look at your changes.
 -->
 
 <!-- <div align="center" class="flex"> -->
-<img align="center" fit="fill" alt="JPG" src="https://telegra.ph/file/d2c018a850fafb651d40f.jpg" />
-
 [![count](https://count.getloli.com/get/@otomad?theme=rule34)](https://count.getloli.com/)<br />
 [![Visitor count](https://profile-counter.glitch.me/otomad/count.svg)](#)<br />
 [![Halfy's github stats](https://github-readme-stats.vercel.app/api?username=otomad&show_icons=true&count_private=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)<br />
