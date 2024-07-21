@@ -1,4 +1,4 @@
-<img align="center" fit="fill" alt="GIF" src="https://media.tenor.com/DrxBKrfOiW8AAAAi/greko-anime.gif" />
+<img align="center" fit="fill" alt="JPG" src="https://telegra.ph/file/485848adf671eef34b8e4.png" />
 
 - 👋 Hi, I’m Khalfy Ramadhan (@halfy).
 - 👀 I’m interested in Ancient Japanese Characters Research, Ancient Japanese Cultural Customs Research...
