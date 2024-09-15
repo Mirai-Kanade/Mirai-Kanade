@@ -1,3 +1,4 @@
+<h1 align="center">Halfy<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt=""><br></h1>
 <img align="center" fit="fill" alt="JPG" src="https://telegra.ph/file/78a7b934c36f6ff9ba128.jpg" />
 
 - 👋 Hi, I’m Mirai Kanade (@Kanade).
